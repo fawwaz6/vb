@@ -1,0 +1,16 @@
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe.config
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.exe
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.pdb
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\bin\Debug\perpustakaan.xml
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.FormMenuUtama.resources
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.Resources.resources
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.exe
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.xml
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.pdb
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.FormLogin.resources
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.FormMasterPetugas.resources
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.FormMasterAnggota.resources
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.FormMasterBuku.resources
+C:\Users\acer\source\repos\perpustakaan\perpustakaan\obj\Debug\perpustakaan.FormPinjam.resources
